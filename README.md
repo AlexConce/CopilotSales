@@ -80,4 +80,4 @@ For questions or contributions, please reach out to:
 
 **Alexandre Barreiros da Conceição**  
 Service Delivery Manager, Lenovo  
-📧 alexandre.barreiros@lenovo.com  
+📧 aconceicao@lenovo.com  
